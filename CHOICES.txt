@@ -2,6 +2,7 @@ CHOICES
 
 First Choice: 1a.md
 Second Choice: Get to work helping. Take a look around the room. Look for people and things that look suspicious or stand out. The sooner begun, the sooner done.
-Third Choice: Approach Billy
-Fourth Choice: Listen in on what he's saying
-Fifth Choice: No one could possibly believe that this is a prank, that's outrageous. He's trying to stop them from asking questions. Highly suspicious! Accuse Billy
+Third Choice: Approached Danny and Helga
+Fourth Choice: Danny is guilty, and Helga is guilty, Billy is guilty
+Fifth Choice: Accuse Danny and Helga, and Billy
+
