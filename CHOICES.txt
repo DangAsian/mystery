@@ -4,4 +4,4 @@ First Choice: 1a.md
 Second Choice: Get to work helping. Take a look around the room. Look for people and things that look suspicious or stand out. The sooner begun, the sooner done.
 Third Choice: Approach Billy
 Fourth Choice: Talk to Billy directly
-Fifth Choice: ____
+Fifth Choice: Accuse Billy
